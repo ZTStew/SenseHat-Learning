@@ -1,6 +1,6 @@
-Author: Zachary Stewart
+**Author:** *Zachary Stewart*
 
-Description: Test project to learn the basics of Raspberry PI + Sense Hat
+**Description:** Test project to learn the basics of Raspberry PI + Sense Hat
 
 1) Sensor_Display - tests with sensor display commands
 2) Temperature_Humidity - tests with temperature and humidity detection commands
